@@ -17,7 +17,6 @@ header {
   height: 40px;
 
   position: absolute;
-  transform: translateY(-5px);
 }
 
 .slogan-frame {
@@ -45,10 +44,9 @@ header {
   display: block;
 
   color: white;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: "Alluring";
   text-align: center;
-  font-size: 20px;
+  font-size: 40px;
 
   position: relative;
   top: 15px;
@@ -59,14 +57,14 @@ header {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-size: 20px;
 
-  transform: translateY(5px);
+  transform: translateY(10px);
 }
 
 .nav {
     display: flex;
     justify-content: flex-end;
     list-style-type: none;
-    padding: 0;
+    padding: 10px;
 }
 
 .nav-link {
