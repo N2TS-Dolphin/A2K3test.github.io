@@ -9,9 +9,18 @@ main {
   padding: 20px; /* Khoảng cách bên trong frame */
 }
 
-#welcome-text{
+#welcome-text {
   font-family: "Alluring";
   font-size: 60px;
 
   transform: translate(50px, 20px);
+}
+
+#class-diagram {
+  background-color: #dadada;
+  
+  margin: 5px;
+  padding: 0px;
+
+  width: fit-content;
 }
