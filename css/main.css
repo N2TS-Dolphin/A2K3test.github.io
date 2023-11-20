@@ -19,7 +19,16 @@ main {
 #class-diagram {
   background-color: #dadada;
   
-  margin: 5px;
+  margin: 5px 0px 5px 0px;
+  padding: 0px;
+
+  width: fit-content;
+}
+
+#class-diagram-left {
+  background-color: #dadada;
+
+  margin: 5px 15px 5px 5px;
   padding: 0px;
 
   width: fit-content;
